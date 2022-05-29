@@ -2,3 +2,5 @@ someone else made changes to 1
 I added this new line
 
 Later, after a commit, I added this new line 
+
+myfirst: added this line with commit and pull request 
