@@ -1,1 +1,3 @@
 I added this new line
+
+Later, after a commit, I added this new line 
