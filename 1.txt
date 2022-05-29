@@ -1,6 +1,7 @@
-someone else made changes to 1
+someone else made changes to 1 (mysecond made edits to this line)
 I added this new line
 
 Later, after a commit, I added this new line 
 
 myfirst: added this line with commit and pull request 
+mysecond: added this line in second branch
