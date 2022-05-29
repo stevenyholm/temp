@@ -1,11 +1,12 @@
-someone else made changes to 1
+someone else made changes to 1 (mysecond made edits to this line)
 I added this new line (other: someone else edited this line) 
 
 other: someone else also added new lines to the middle of the file
 
 Later, after a commit, I added this new line 
-other: someone else added this line 
 myfirst: added this line with commit and pull request 
 other: someone else added this line 
 
+myfirst: added this line with commit and pull request 
 other: another person added a function to the end of the file 
+mysecond: added this line in second branch
